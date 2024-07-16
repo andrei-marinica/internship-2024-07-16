@@ -1,4 +1,4 @@
-# MultiversX couse for interns: Rust basics
+# MultiversX course for interns: Rust basics
 
 I wanted to focus on the topics that I found most challenging while learning Rust.
 
